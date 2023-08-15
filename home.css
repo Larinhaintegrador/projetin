@@ -440,4 +440,5 @@ a:hover {
 .botao_nav:hover{
     color: #FF00FF;
     background-color: none;
+    position: top;
 }
